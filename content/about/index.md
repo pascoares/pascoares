@@ -17,7 +17,7 @@ Within the ARES organization, Pasco ARES has a team of amateur radio operators w
 |Training|Barry Keaveny|N2NVP|keavbv@msn.com|
 |AEC|Steve Coe| KI4LVH|ki4lvh@arrl.net|
 |Training Officer|John Leahy|KK4ITX|jleahy00@yahoo.com|
-|SARnet Liasion|Chris McCullogh|KC3CJU|kc3cjuA@gmail.com|
+|SARnet Liasion|Chris McCullogh|KC3CJU|kc3cju@gmail.com|
 |Skywarn|Ralph McCullogh|WA3YFQ|wa3yfq@yahoo.com|
 
 
