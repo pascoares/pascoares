@@ -1,0 +1,31 @@
+baseurl: localhost
+title: Pasco County, Florida - ARES
+languageCode: en-us
+paginate: 10 # Number of posts per page
+# Default Theme
+theme: PaperMod
+
+menu:
+  main:
+    - identifier: about
+      name: About
+      url: /about/
+      weight: 30
+    - identifier: nets
+      name: Nets
+      url: /nets/
+      weight: 10
+    - identifier: mission
+      name: Mission
+      url: /mission/
+      weight: 20
+    
+
+params:
+    profileMode:
+        enabled: true
+        title: "Pasco County, Florida ARES" 
+        subtitle: "Serving the Pasco county community with amateur radio"
+        imageUrl: "/img/PASCO_logo400.png"
+        imageWidth: 400
+        imageHeight: 400
