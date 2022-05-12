@@ -11,7 +11,7 @@ Within the ARES organization, Pasco ARES has a team of amateur radio operators w
 
 | Role | Name | Callsign | email |
 |------|------|------|----------|-------|
-|EC | Tim Cunningham| xxxxx | TDB |
+|EC | Tim Cunningham| KM4YGV | TDB |
 |Club Liaison/Webmaster|Chris Bloxsom|AA4CB|aa4cb@yahoo.com|
 |Administration|Frank Kaleyias|TBD|frank.gcarc@outlook.com|
 |Training|Barry Keaveny|N2NVP|keavbv@msn.com|
