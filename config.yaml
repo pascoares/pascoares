@@ -1,4 +1,5 @@
-baseurl: pascoares.github.io/pascoares/
+baseurl: https://pascoares.github.io/pascoares/
+#baseurl: localhost
 title: Pasco County, Florida - ARES
 languageCode: en-us
 paginate: 10 # Number of posts per page
