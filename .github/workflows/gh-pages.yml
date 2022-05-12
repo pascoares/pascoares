@@ -22,7 +22,7 @@ jobs:
           extended: true
 
       - name: Build
-        run: hugo --minify #--baseURL=https://pascoares.github.io/pascoares/
+        run: hugo --minify --baseURL=https://pascoares.github.io/pascoares/
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
