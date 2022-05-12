@@ -27,6 +27,6 @@ params:
         enabled: true
         title: "Pasco County, Florida ARES" 
         subtitle: "Serving the Pasco county community with amateur radio"
-        imageUrl: "/img/PASCO_logo400.png"
+        imageUrl: "PASCO_logo400.png"
         imageWidth: 400
         imageHeight: 400
