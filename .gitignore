@@ -16,5 +16,7 @@ bin-release/
 
 # Hugo
 public/
+resources/
 
 # Backup Files
+.DS_Store
