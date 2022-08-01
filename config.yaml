@@ -23,6 +23,8 @@ menu:
     
 
 params:
+    homeInfoParams:
+        enabled: true
     profileMode:
         enabled: true
         title: "Pasco County, Florida ARES" 
