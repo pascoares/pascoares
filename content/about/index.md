@@ -7,7 +7,7 @@ We are the Amateur Radio Emergency Service ("ARES") team in Pasco County, Florid
 
 
 # Leadership Team
-Within the ARES organization, Pasco ARES has a team of amateur radio operators who serve as the leadership group. The Emergency Coordinator is appointed by the Section Emergency Coordinator to fill the leadership role within the local area of Pasco County. The Emergency Coordinator or “EC” may appoint one or more Assistant Emergency Coordinators or “AECs” to perform tasks in specific assigned areas.
+Within the ARES organization, Pasco ARES has a team of amateur radio operators who serve as the leadership group. The Emergency Coordinator is appointed by the Section Emergency Coordinator to fill the leadership role within the local area of Pasco County. The Emergency Coordinator or “EC” may appoint one or more Assistant Emergency Coordinators or “AECs” to perform tasks in specifically assigned areas.
 
 | Role | Name | Callsign | email |
 |------|------|------|----------|-------|
