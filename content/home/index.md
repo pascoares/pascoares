@@ -5,7 +5,7 @@
 layout: home
 ---
 
-![Pasco County, FL ARES logo](/PASCO_logo400.png)
+![Pasco County, FL ARES logo](PASCO_logo400.png)
 
 # Pasco County Amateur Radio Emergency Service
 ## West Central Florida Section [ARES]
