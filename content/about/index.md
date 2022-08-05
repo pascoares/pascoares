@@ -11,34 +11,24 @@ Within the ARES organization, Pasco ARES has a team of amateur radio operators w
 
 | Role | Name | Callsign | email |
 |------|------|------|----------|-------|
-|EC | Tim Cunningham| KM4YGV | TDB |
-|Club Liaison/Webmaster|Chris Bloxsom|AA4CB|aa4cb@yahoo.com|
-|Administration|Frank Kaleyias|TBD|frank.gcarc@outlook.com|
-|Training|Barry Keaveny|N2NVP|keavbv@msn.com|
-|AEC|Steve Coe| KI4LVH|ki4lvh@arrl.net|
-|Training Officer|John Leahy|KK4ITX|jleahy00@yahoo.com|
-|SARnet Liasion|Chris McCullogh|KC3CJU|kc3cju@gmail.com|
-|Skywarn|Ralph McCullogh|WA3YFQ|wa3yfq@yahoo.com|
+|EC | Tim Cunningham| KM4YGV | KM4YGV@arrl.net|
+|Deputy EC | Scott Allshouse | W9SBA | Scott-allshouse@charter.net|
+|AEC Resource Manager | Barry Keaveny | N2NVP | keavbv@msn.com|
+|AEC Net Manager | Jim McDevitt | K4YZI | k4yziham@gmail.com|
+|AEC SARnet Liasion|Chris McCullogh|KC3CJU|kc3cju@gmail.com|
+|AEC Skywarn Coordinator | Ralph McCullogh| WA3YFQ| wa3yfq@yahoo.com|
+|Administration| Frank Kaleyias|TBD|frank.gcarc@outlook.com|
+|Training| Barry Keaveny| N2NVP| keavbv@msn.com|
+|Webmaster| Kurt Fehlhauer| KU0O | ku0o@pm.me|
 
 
 
 ### WCF Section Manager
 | Name | Callsign | email |
 |------|----------|-------|
-|Darrell Davis|KT4WX|kt4wx@arrl.org|
+|Mike Douglas | W4MDD| W4mdd@arrl.net|
 
-#### WCF Section ARES Leadership Team
+### WCF Section ARES Leadership Team
 | Role | Name| Callsign | email |
 |------|-----|----------|-------|
-|Section Emergency Coordinator|Ben Henley|KI4IGX|ben@bhenley.com|
-
-
-#### Assistant Section Emergency Coordinators:
-
-| Name | Call sign | email | Position |
-|------|-----------|-------|--------------|
-| Randy Payne | K4EZM | k4ezm@arrl.net | Administrative and Reports |
-| Neil Lauritsen | W4NHL | w4nhl.1@gmail.com | SEC Emeritus |
-|Paul Womble | K4FB | pwomble@tampabay.rr.com |  Inland Counties|
-|Larry Ruegger | KO4QS | lruegger@gte.net | Coastal Counties |
-|Roy Drury | K4DCT | rdrury@hcaresraces.org | Administrative |
+|WCF District Emergency Coordinator|Dan Wilson |AB4LN |dpwilson1031@gmail.com|

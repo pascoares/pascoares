@@ -14,6 +14,7 @@ The Pasco County ARES/SKYWARN  Net meets on-the-air each Wednesday night at 7:30
 |---------|-----------|--------------------|-----------------|----------------|----------------|
 |GCARC | WA4GDN | New Port Richey | 146.670 / 146.2  |46670 	| 49112 |
 |GCARC | WA4GDN |Land O Lakes | 145.330 / 146.2 | 945311 | 45558 |
+|PCARES |  W4PEM | Dade City | 147.135 / 146.2 | N/A | N/A |
 |ZAARC | W1PB |	Zephyrhills | 146.910 / 146.2 |	627690 | 47171 |
 |EPARS | K4EX |Dade City | 146.880 / 146.2 | 922106 | 45558 |
 
