@@ -17,8 +17,7 @@ Within the ARES organization, Pasco ARES has a team of amateur radio operators w
 |AEC Net Manager | Jim McDevitt | K4YZI | k4yziham@gmail.com|
 |AEC SARnet Liasion|Chris McCullogh|KC3CJU|kc3cju@gmail.com|
 |AEC Skywarn Coordinator | Ralph McCullogh| WA3YFQ| wa3yfq@yahoo.com|
-|Administration| Frank Kaleyias|TBD|frank.gcarc@outlook.com|
-|Training| Barry Keaveny| N2NVP| keavbv@msn.com|
+|Training| Terry Biggs| KJ4BYL| TBD|
 |Webmaster| Kurt Fehlhauer| KU0O | ku0o@pm.me|
 
 

@@ -20,6 +20,10 @@ menu:
       name: Mission
       url: /mission/
       weight: 20
+    - identifier: contact
+      name: Contact
+      url: /contact/
+      weight: 40
     
 
 params:
