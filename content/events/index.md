@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Meetings
-permalink: /meetings
+title: Events
+permalink: /events
 ---
-| Date | Time | Meeting Type | Location |
+| Date | Time | Event Type | Location |
 |-----------|-------|-----------------|----------------------------------------------------------------------|
 |02/04/2023 | 09:30 | Monthly meeting | Pasco West EOC, 8744 Government Drive, Building A, New Port Richey |
 |02/18/2023 | 09:30 | Skywarn training | Pasco West EOC, 8744 Government Drive, Building A, New Port Richey |

@@ -12,10 +12,10 @@ menu:
       name: About
       url: /about/
       weight: 30
-    - identifier: meetings
-      name: Meetings
-      url: /meetings/
-      weight: 30
+    - identifier: events
+      name: Events
+      url: /events/
+      weight: 20
     - identifier: nets
       name: Nets
       url: /nets/

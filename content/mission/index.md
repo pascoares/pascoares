@@ -1,3 +1,8 @@
+---
+layout: page
+title: Mission
+permalink: /mission
+---
 Amateur Radio has a long and honored tradition of providing communications during times of emergency. This is in keeping with the first of the stated purposes of the Amateur Radio Service found in the FCC rules:
 
 ```97.1(a) Recognition and enhancement of the value of the amateur service to the public as a voluntary noncommercial communications service, particularly with respect to providing emergency service.```
