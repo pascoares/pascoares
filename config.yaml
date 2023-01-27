@@ -1,5 +1,5 @@
-baseurl: https://pascoares.org
-#baseurl: localhost
+#baseurl: https://pascoares.org
+baseurl: localhost
 title: Pasco County, Florida - ARES
 languageCode: en-us
 paginate: 10 # Number of posts per page

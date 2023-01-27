@@ -1,6 +1,3 @@
-+++
-+++
-
 # Who We Are
 We are the Amateur Radio Emergency Service ("ARES") team in Pasco County, Florida. "ARES" is part of the "Amateur Radio Relay League" ("ARRL"). Organizationally, we are part of the "West Central Florida" Section of the ARRL. Pasco County is on the Central Gulf Coast of Florida, North of Tampa Bay.
 "Providing Pasco County, FL with Effective Emergency Communication!"
