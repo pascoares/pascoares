@@ -1,8 +1,4 @@
 {{- if not (.Param "hideFooter") }}
-<div class="footer">
-    <p>For more information about Pasco County, FL ARES or to join, please email us at <a
-            href="mailto:info@pascoareswcf.org">info@pascoareswcf.org</a></p>
-</div>
 <footer class="footer">
     {{- if site.Copyright }}
     <span>{{ site.Copyright | markdownify }}</span>
@@ -12,7 +8,7 @@
     <span>
         Powered by
         <a href="https://gohugo.io/" rel="noopener noreferrer" target="_blank">Hugo</a> &
-        <a href="https://git.io/hugopapermod" rel="noopener" target="_blank">PaperMod</a>
+        <a href="https://github.com/adityatelange/hugo-PaperMod/" rel="noopener" target="_blank">PaperMod</a>
     </span>
 </footer>
 {{- end }}
@@ -95,12 +91,12 @@
 
         const copybutton = document.createElement('button');
         copybutton.classList.add('copy-code');
-        copybutton.innerText = '{{- i18n "code_copy" | default "copy" }}';
+        copybutton.innerHTML = '{{- i18n "code_copy" | default "copy" }}';
 
         function copyingDone() {
-            copybutton.innerText = '{{- i18n "code_copied" | default "copied!" }}';
+            copybutton.innerHTML = '{{- i18n "code_copied" | default "copied!" }}';
             setTimeout(() => {
-                copybutton.innerText = '{{- i18n "code_copy" | default "copy" }}';
+                copybutton.innerHTML = '{{- i18n "code_copy" | default "copy" }}';
             }, 2000);
         }
 

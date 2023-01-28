@@ -1,10 +1,11 @@
-#baseurl: https://pascoares.org
-baseurl: localhost
+baseurl: https://pascoares.org
+#baseurl: localhost
 title: Pasco County, Florida - ARES
 languageCode: en-us
 paginate: 10 # Number of posts per page
 # Default Theme
 theme: PaperMod
+
 
 menu:
   main:
@@ -40,15 +41,23 @@ params:
         imageUrl: "PASCO_logo400.png"
         imageWidth: 400
         imageHeight: 400
-    defaultTheme: auto
+    defaultTheme: dark
+    disableThemeToggle: true
     ShowShareButtons: true
-    ShowReadingTime: true
+    # ShowReadingTime: true
     displayFullLangName: true
     ShowPostNavLinks: true
     ShowBreadCrumbs: true
     ShowCodeCopyButtons: true
     ShowRssButtonInSectionTermList: true
     ShowToc: true
+
+    socialIcons:
+      - name: "facebook"
+        url: "https://www.facebook.com/groups/140239368312812"
+      - name: "email"
+        url: "mailto:info@pascoareswcf.org"
+
 
 
 outputs:
