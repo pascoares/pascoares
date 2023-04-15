@@ -29,7 +29,7 @@ Within the ARES organization, Pasco ARES has a team of amateur radio operators w
 |------|----------|-------|
 |Mike Douglas | W4MDD| W4mdd@arrl.net|
 
-### WCF Section ARES Leadership Team
+<!--### WCF Section ARES Leadership Team
 | Role | Name| Callsign | email |
 |------|-----|----------|-------|
-|WCF District Emergency Coordinator|Dan Wilson |AB4LN |dpwilson1031@gmail.com|
+|WCF District Emergency Coordinator|Dan Wilson |AB4LN |dpwilson1031@gmail.com|-->
