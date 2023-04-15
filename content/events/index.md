@@ -5,7 +5,6 @@ permalink: /events
 ---
 | Date | Time | Event Type | Location |
 |-----------|-------|-----------------|----------------------------------------------------------------------|
-|04/29/2023 | 06:30 | Gulf Coast Amateur Radio Club Spring Hamfest |Milllenium Academy, 10005 Ridge Rd. New Port Richey, Fl. 34654|
 |05/06/2023 | 09:30 | Monthly meeting | TBD<!-- Pasco West EOC, 8744 Government Drive, Building A, New Port Richey --> |
 |05/24/2023| 07:00| ARRL Field Day (Day 1) | TBD |
 |05/25/2023| 07:00| ARRL Field Day (Day 2) | TBD |
