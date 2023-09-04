@@ -13,7 +13,6 @@ Within the ARES organization, Pasco ARES has a team of amateur radio operators w
 
 | Role | Name | Callsign | email |
 |------|------|------|----------|-------|
-|EC | Tim Cunningham| KM4YGV | KM4YGV@arrl.net|
 |Deputy EC | Scott Allshouse | W9SBA | Scott-allshouse@charter.net|
 |AEC Resource Manager | Barry Keaveny | N2NVP | keavbv@msn.com|
 |AEC Net Manager | Jim McDevitt | K4YZI | k4yziham@gmail.com|
