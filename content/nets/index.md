@@ -8,7 +8,9 @@ The Pasco County Amateur Radio Emergency Service On-Air Nets
 
 Pasco ARES / SKYWARN  Weekly Net
 
-The Pasco County ARES/SKYWARN  Net meets on-the-air each Wednesday night at 7:30 PM local time. Currently we are linking up to four Pasco County repeaters via echolink. You can connect to anyone of the repeaters listed below. The primary repeater is 146.670.
+<!--The Pasco County ARES/SKYWARN  Net meets on-the-air each Wednesday night at 7:30 PM local time. Currently we are linking up to four Pasco County repeaters via echolink. You can connect to anyone of the repeaters listed below. The primary repeater is 146.670.-->
+
+No nets are scheduled at this time.
 
 | Repeater | Call Sign | Location |	Frequency/Tone | Echo Link Node | All Star Node|
 |---------|-----------|--------------------|-----------------|----------------|----------------|
