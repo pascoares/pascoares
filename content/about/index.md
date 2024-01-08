@@ -13,12 +13,6 @@ Within the ARES organization, Pasco ARES has a team of amateur radio operators w
 
 | Role | Name | Callsign | email |
 |------|------|------|----------|-------|
-|Deputy EC | Scott Allshouse | W9SBA | Scott-allshouse@charter.net|
-|AEC Resource Manager | Barry Keaveny | N2NVP | keavbv@msn.com|
-|AEC Net Manager | Jim McDevitt | K4YZI | k4yziham@gmail.com|
-|AEC SARnet Liasion|Chris McCullogh|KC3CJU|kc3cju@gmail.com|
-|AEC Skywarn Coordinator | Ralph McCullogh| WA3YFQ| wa3yfq@yahoo.com|
-|Training| Terry Biggs| KJ4BYL| TBD|
 |Webmaster| Kurt Fehlhauer| KU0O | ku0o@pm.me|
 
 
